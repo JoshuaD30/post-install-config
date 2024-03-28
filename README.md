@@ -8,7 +8,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
+- ### [YouTube: How To Configure osTicket, post-installation](https://youtu.be/9ZiHAw0Yhk0?si=aBWQVQ1p1mY_qJgb)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -22,34 +22,79 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Add the Supreme Admin Role.
+- Add the System Administrators Department.
+- Add Level II Support Team.
+- Allow anyone to create tickets
+- Add 2 agents.
+- Add 2 users.
+- Add 3 SLAs.
+- Add more help topics.
 
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/NJhp0pR.png" height="40%" width="40%" alt="Name of Role"/>
+<img src="https://i.imgur.com/OIjQrkG.png" height="40%" width="40%" alt="Permission of Role"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go to Admin Panel, then select Agents, and finally select Roles.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9wZwLVp.png" height="80%" width="80%" alt="Creating the department"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go to Admin Panel, then select Agents, and finally select Departments.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/yIgpY8E.png" height="40%" width="40%" alt="Creating the team"/>
+<img src="https://i.imgur.com/XYRNUod.png" height="40%" width="40%" alt="Adding a user to the team"/>
+</p>
+<p>
+Go to Admin Panel, then select Agents, and finally select Teams. Add this member to the team.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/eDbAbNU.png" height="80%" width="80%" alt="Letting users create tickets"/>
+</p>
+<p>
+Go to Admin Panel, then go to settings, and finally select users.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/51UVFQH.png" height="80%" width="80%" alt="Adding agents"/>
+</p>
+<p>
+Go to Admin Panel, then go to Agents, and finally select agents.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/R8IKKQJ.png" height="80%" width="80%" alt="Adding users"/>
+</p>
+<p>
+Go to Agent Panel, then go to Users, and finally select user directory. Select add user to add the user.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/91VJTU2.png" height="80%" width="80%" alt="Adding SLA"/>
+</p>
+<p>
+Go to Admin Panel, then go to Manage, and finally select SLA.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/fbgk5W1.png" height="80%" width="80%" alt="Adding SLA"/>
+</p>
+<p>
+Go to Admin Panel, then go to Manage, and finally select Help Topics.
 </p>
 <br />
